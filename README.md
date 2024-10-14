@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-👋 Hi, I’m Nitin<br>👀 I’m interested in Machine Learning, Data Science and Artificial Intelligence<br>🌱 I’m currently learning about LLMs, SQL and Python<br>💞️ I’m looking to collaborate on projects based on ML, Data Science and Python<br>📫 You can reach me at my discord <Sparky #4844> if you're interested in working and learning together!
+👋 Hi, I’m Nitin<br>👀 I’m interested in Machine Learning, Data Science and Artificial Intelligence<br>🌱 I’m currently learning about LLMs, SQL and Generative AI<br>💞️ I’m looking to collaborate on projects based on ML, Data Science and Python<br>📫 You can reach me at my discord <Sparky #4844> if you're interested in working and learning together!
 
 
 ## 🌐 Socials:
