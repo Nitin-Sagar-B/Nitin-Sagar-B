@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 👋 Hi, I’m Nitin<br>👀 I’m interested in Machine Learning, Data Science and Artificial Intelligence<br>🌱 I’m currently learning about LLMs, SQL and Generative AI<br>💞️ I’m looking to collaborate on projects based on ML, Data Science and Python<br>📫 You can reach me at my discord <Sparky #4844> if you're interested in working and learning together!
 
+#GitHub Organisation: <a href="https://www.github.com/Sparkience-AI">Sparkience AI</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-sagar-boyeena) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Sparky_1201) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Agent-FrozenCookie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nitinsagarb) 
