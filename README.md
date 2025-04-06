@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I’m Nitin 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=AI+and+DS+Engineer+%7C+Open+Source+Builder;Building+AI+tools+at+Sparkience+AI.;Let%27s+build+dope+things+together!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=AI+and+Data+Science+Engineer;Open+Source+and+Research;Building+AI+tools+at+Sparkience+AI.;Let%27s+build+dope+things+together!"/>
 </p>
 
 ---
