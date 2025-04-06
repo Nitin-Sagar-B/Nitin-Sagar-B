@@ -24,14 +24,6 @@ Check out top projects like [`SparkPrompt`](https://github.com/Sparkience-AI/Spa
 
 ---
 
-### 🧠 Currently Learning
-
-- ✨ LangChain, Gemini, Ollama, and TinyLLMs
-- 🧩 Advanced SQL & prompt engineering
-- ⚡ End-to-end AI toolchains (FastAPI + Streamlit + MongoDB)
-
----
-
 ### 💼 Skills Snapshot
 
 `Languages:` Python, JavaScript, LaTeX, Bash, SQL, Ruby  
@@ -57,11 +49,6 @@ Check out top projects like [`SparkPrompt`](https://github.com/Sparkience-AI/Spa
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nitin-sagar-b&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -70,5 +57,5 @@ Check out top projects like [`SparkPrompt`](https://github.com/Sparkience-AI/Spa
 [![](https://visitcount.itsvg.in/api?id=nitin-sagar-b&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+visiting!&fontSize=18&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=18&fontAlignY=40"/>
 </p>
