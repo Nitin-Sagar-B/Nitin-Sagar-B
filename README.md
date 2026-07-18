@@ -40,7 +40,7 @@ Check out top projects like [`SparkPrompt`](https://github.com/Sparkience-AI/Spa
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-sagar-boyeena) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Sparky_1201) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Agent-FrozenCookie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nitinsagarb) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-sagar-boyeena)
 
 ---
 
