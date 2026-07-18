@@ -57,7 +57,8 @@ A curated collection of practical AI tools built for the curious dev, the data n
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nitin-sagar-b&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nitin-sagar-b&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-sagar-b&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-sagar-b&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+[![Nitin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitin-sagar-b&theme=react-dark)](https://github.com/anuraghazra/github-readme-activity-graph)
 
 ---
 
