@@ -8,7 +8,7 @@
 ### 🚀 Who Am I?
 
 🎓 BVRIT Alum | 💻 Full-Time Backend Engineer (Enterprise Java & Spring Boot)  
-🔭 Currently building [**Sparkience AI**](https://github.com/Sparkience-AI) – my open-source AI lab  
+🔭 Currently building [**Sparkience AI**](https://github.com/Sparkience-AI) – my open-source AI lab in my free time
 💡 Passionate about LLMs, Agentic AI (Smolagents, LangChain), and robust backend systems  
 💬 Down to collab on open-source AI tools, agentic workflows, and creative data projects  
 🕹️ Low-key love video games, chaos theory, and building with no sleep
