@@ -1,16 +1,16 @@
 <h1 align="center">Hey, I’m Nitin 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=AI+and+Data+Science+Engineer;Open+Source+and+Research;Building+AI+tools+at+Sparkience+AI.;Let%27s+build+dope+things+together!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Backend+Engineer+%26+AI+Dev;Enterprise+Java+%26+Spring+Boot;Building+AI+tools+at+Sparkience+AI.;Let%27s+build+dope+things+together!"/>
 </p>
 
 ---
 
 ### 🚀 Who Am I?
 
-🎓 Final Year BTech @ BVRIT | 🧠 AI & Data Science Major  
-🔭 Currently working on [**Sparkience AI**](https://github.com/Sparkience-AI) – my open-source AI lab  
-💡 Passionate about LLMs, agentic systems, and useful AI tools  
-💬 Always down to collab on AI, ML, and creative data projects  
+🎓 BVRIT Alum | 💻 Full-Time Backend Engineer (Enterprise Java & Spring Boot)  
+🔭 Currently building [**Sparkience AI**](https://github.com/Sparkience-AI) – my open-source AI lab  
+💡 Passionate about LLMs, Agentic AI (Smolagents, LangChain), and robust backend systems  
+💬 Down to collab on open-source AI tools, agentic workflows, and creative data projects  
 🕹️ Low-key love video games, chaos theory, and building with no sleep
 
 ---
@@ -22,17 +22,19 @@
 A curated collection of practical AI tools built for the curious dev, the data nerd, and the weekend hacker. All open-source. All powerful.  
 Check out top projects like [`SparkPrompt`](https://github.com/Sparkience-AI/SparkPrompt), [`SparkDocs`](https://github.com/Sparkience-AI/SparkDocs), [`DSSential`](https://github.com/Sparkience-AI/DSSential-The-AI-Chief), and more!
 
+🤝 **Want to contribute?** I'm looking for devs passionate about building agentic workflows, prompt optimization utilities, and scaling open-source LLM tools. Drop an issue or a PR!
+
 ---
 
 ### 💼 Skills Snapshot
 
-`Languages:` Python, JavaScript, LaTeX, Bash, SQL, Ruby  
-`Libraries:` Pandas, NumPy, scikit-learn, TensorFlow, OpenCV, Plotly, Matplotlib  
-`Tools:` GitHub, VS Code, Streamlit, Render, SQLite, PowerShell  
-`Concepts:` LLMs, Time Series Forecasting, NLP, Prompt Chaining, Visualization
+`Languages:` Java (Enterprise), Python, JavaScript, LaTeX, Bash, SQL, Ruby  
+`Frameworks & Libs:` Spring Boot, LangChain, Smolagents, Hugging Face, Pandas, NumPy, scikit-learn, TensorFlow, OpenCV, Plotly  
+`Tools & Infra:` Docker, Azure, GitHub, VS Code, Streamlit, Render, SQLite, PowerShell  
+`Concepts:` Agentic AI, LLMs, Time Series Forecasting, NLP, Prompt Chaining
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A5%97%20Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logoColor=black) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
