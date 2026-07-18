@@ -7,20 +7,23 @@
 
 ### 🚀 Who Am I?
 
-🎓 BVRIT Alum | 💻 Full-Time Backend Engineer (Enterprise Java & Spring Boot)  
-🔭 Currently building [**Sparkience AI**](https://github.com/Sparkience-AI) – my open-source AI lab in my free time
-💡 Passionate about LLMs, Agentic AI (Smolagents, LangChain), and robust backend systems  
-💬 Down to collab on open-source AI tools, agentic workflows, and creative data projects  
+🎓 BVRIT Alum (AI & Data Science)[cite: 1] | 💻 Full-Time Backend Developer @ Accenture[cite: 1]  
+🔭 Currently building [**Sparkience AI**](https://github.com/Sparkience-AI) – my open-source AI lab in my free time  
+💡 Passionate about production-grade Spring Boot systems[cite: 1], Agentic AI (Smolagents[cite: 1], LangChain), and secure API architectures[cite: 1]  
+💬 Down to collab on open-source AI tools, agentic workflows, and high-performance backend systems[cite: 1]  
 🕹️ Low-key love video games, chaos theory, and building with no sleep
 
 ---
 
-### 🧪 My Org: [Sparkience AI](https://github.com/Sparkience-AI)
+### 🧪 My Org: [Sparkience AI](https://github.com/Sparkience-AI) & Featured Projects
 
 > _“Where models collaborate, ideas spark, and innovation goes brrr...”_
 
-A curated collection of practical AI tools built for the curious dev, the data nerd, and the weekend hacker. All open-source. All powerful.  
-Check out top projects like [`SparkPrompt`](https://github.com/Sparkience-AI/SparkPrompt), [`SparkDocs`](https://github.com/Sparkience-AI/SparkDocs), [`DSSential`](https://github.com/Sparkience-AI/DSSential-The-AI-Chief), and more!
+A curated collection of practical AI tools built for the curious dev, the data nerd, and the weekend hacker. All open-source. All powerful.
+
+*   [`SparkPrompt`](https://github.com/Sparkience-AI/SparkPrompt), [`SparkDocs`](https://github.com/Sparkience-AI/SparkDocs), and [`DSSential`](https://github.com/Sparkience-AI/DSSential-The-AI-Chief).
+*   **Spark Insights:** An autonomous AI Data Scientist agent engineered with Smolagents[cite: 1] to automate end-to-end data analysis workflows[cite: 1] and generate insight-driven reporting pipelines[cite: 1].
+*   **AI-Powered Decision Support System:** An enterprise forecasting platform built using Streamlit[cite: 1], Prophet[cite: 1], and Monte Carlo simulations[cite: 1] for multi-scenario risk analysis[cite: 1].
 
 🤝 **Want to contribute?** I'm looking for devs passionate about building agentic workflows, prompt optimization utilities, and scaling open-source LLM tools. Drop an issue or a PR!
 
@@ -28,13 +31,20 @@ Check out top projects like [`SparkPrompt`](https://github.com/Sparkience-AI/Spa
 
 ### 💼 Skills Snapshot
 
-`Languages:` Java (Enterprise), Python, JavaScript, LaTeX, Bash, SQL, Ruby  
-`Frameworks & Libs:` Spring Boot, LangChain, Smolagents, Hugging Face, Pandas, NumPy, scikit-learn, TensorFlow, OpenCV, Plotly  
-`Tools & Infra:` Docker, Azure, GitHub, VS Code, Streamlit, Render, SQLite, PowerShell  
-`Concepts:` Agentic AI, LLMs, Time Series Forecasting, NLP, Prompt Chaining
+`Languages:` Java (Enterprise)[cite: 1], Python[cite: 1], SQL (MySQL)[cite: 1], JavaScript[cite: 1], HTML/CSS[cite: 1], LaTeX, Bash, Ruby  
+`Frameworks & Libs:` Spring Boot[cite: 1], LangChain, Smolagents[cite: 1], Hugging Face[cite: 1], Streamlit[cite: 1], Flask[cite: 1], TensorFlow[cite: 1], Pandas[cite: 1], NumPy[cite: 1], scikit-learn[cite: 1], OpenCV  
+`Tools & Infra:` Docker[cite: 1], Kubernetes[cite: 1], Azure (Bastion/Clusters)[cite: 1], Git[cite: 1], VS Code[cite: 1], IntelliJ IDEA[cite: 1], Cursor[cite: 1], Render, SQLite, PowerShell  
+`Concepts:` Agentic AI[cite: 1], LLMs & Prompt Chaining[cite: 1], API Security & Optimization[cite: 1], Time Series Forecasting[cite: 1], Multimodal RAG[cite: 1]
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A5%97%20Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logoColor=black) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📜 Research & Certifications
+
+*   **Publication:** Co-author of *"Artificial Intelligence: A neoteric reach in Periodontics"* (Journal of Population Therapeutics and Clinical Pharmacology)[cite: 1]
+*   **Certifications:** Hugging Face Agents Course (Certificate of Excellence)[cite: 1] | Prompt Engineering & Programming (Columbia+)[cite: 1] | Google Cloud Multimodal RAG Skill Badge[cite: 1] | IIIT Hyderabad FML[cite: 1]
 
 ---
 
